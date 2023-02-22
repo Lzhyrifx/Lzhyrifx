@@ -4,5 +4,5 @@
 [![](https://github-readme-stats.vercel.app/api?username=Lzhyrifx&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api?username=Lzhyrifx&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <br>
-[![](https://activity-graph.herokuapp.com/graph?username=Lzhyrifx&theme=react#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![](https://activity-graph.herokuapp.com/graph?username=Lzhyrifx&theme=react#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![](https://activity-graph.herokuapp.com/graph?username=Lzhyrifx&theme=github#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![](https://activity-graph.herokuapp.com/graph?username=Lzhyrifx&theme=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
