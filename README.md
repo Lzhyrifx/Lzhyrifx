@@ -4,5 +4,5 @@
 [![](https://github-readme-stats.vercel.app/api?username=Lzhyrifx&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api?username=Lzhyrifx&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <br>
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=Lzhyrifx&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=Lzhyrifx&theme=react#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=Lzhyrifx&theme=react#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=Lzhyrifx&theme=minimal#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
